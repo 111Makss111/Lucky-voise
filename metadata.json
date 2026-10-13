@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Voice - Gemini TTS Studio",
+  "description": "Expressive Text-to-Speech studio powered by Gemini 3.8 Flash TTS, featuring Ukrainian & multilingual voice styling, vocal bursts, dialogue scripts, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
